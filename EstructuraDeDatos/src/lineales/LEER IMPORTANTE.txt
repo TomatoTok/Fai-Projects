@@ -1,0 +1,2 @@
+Dentro de la carpeta "Dinamicas" se encuentra un archivo "MixLineales" que contiene el 
+Test del metodo pedido para la reentrega, se corrigió lo pedido y algunos detalles mas gracias. :)
