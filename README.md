@@ -1,8 +1,48 @@
 # Fai-Projects.
 #### Todos mis trabajos informaticos y proyectos para la universidad están alojados aquí.
+----------------------------------
+<b>Estructura de Datos </b>
+```
 
-## Welcome!                                                                            
-[ESP] : Mi nickname es Tomato soy de Argentina y estudiante de la "Facultad de Informatica de la UNCO", los lenguajes que aplico son JAVA, HTML, JavaScrip y Pharo SmallTalk. Todos los proyectos ubicados en este repositorio son SOLO para la facultad y proyectos en la misma NO para uso comercial, todo está sujeto a errores y fallas.
+Contiene estructuras como:
 
+ - Pila
+ - Cola
+ - Lista
+ - Arbol Binario
+ - Arbol Generico
+ - otros
+ 
+```
+----------------------------------
 
-[ENG] : My nickname is Tomato i'm from Argentina and student at the "Facultad de Informatica de la UNCO", my computer lenguages are JAVA, HTML, JavaScript and Pharo SmallTalk. All project in this repository are ONLY for college projects and homeworks NOT for commercial use, everything is subject to errors and failures.
+<b>Metodos Computacionales</b>
+
+```
+
+Contiene algoritmos como:
+
+- Biseccion                                            
+- Metodo de Euler
+- Newton Rapson
+- Simpson 1/3
+- otros
+
+```
+
+----------------------------------
+
+<b> Desarrollo de Algoritmos </b>
+
+```
+
+Contiene algoritmos como:
+- Clases (Vehiculo, Persona, etc)
+- Recursividad
+- Implementacion de UML
+- otros
+
+```
+
+----------------------------------
+_Si te sirve alguno podes usarlo, pueden estar sujeto a errores, fallas o sin terminar._
